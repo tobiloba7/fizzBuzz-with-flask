@@ -1,0 +1,14 @@
+/* Style for Fizz (color: blue) */
+.fizz {
+  color: blue;
+}
+
+/* Style for Buzz (color: purple) */
+.buzz {
+  color: purple;
+}
+
+/* Style for FizzBuzz (color: red) */
+.fizzbuzz {
+  color: red;
+}
