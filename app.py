@@ -35,7 +35,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/fizzbuzz')
 def fizzbuzz():
     numbers = []
     for i in range(1, 101):
